@@ -10,6 +10,8 @@
     var self = this;
     self.user  = userService.getUser()
 
+
+    self.userDetail = userService.getUserDetail()
   }
 
 })();
