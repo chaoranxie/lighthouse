@@ -56,7 +56,20 @@
           <md-tooltip>Contact {{ ul.selected.name }}</md-tooltip>
           <md-icon md-svg-icon="share"></md-icon>
         </md-button>
-      </md-content>
+    </md-content>
+
+    <div ng-controller="QuestionController as ql">
+    <md-content flex id="questions">
+        <md-icon md-svg-icon="{{ul.selected.avatar}}" class="avatar"></md-icon>
+        <h2>{{ul.selected.name}}</h2>
+        <p>{{ul.selected.content}}</p>
+
+        <md-button class="contact" md-no-ink ng-click="ul.showContactOptions($event)" aria-label="Contact User">
+          <md-tooltip>Contact {{ ul.selected.name }}</md-tooltip>
+          <md-icon md-svg-icon="share"></md-icon>
+        </md-button>
+    </md-content>
+    </div>
 
   </div>
 
@@ -71,10 +84,15 @@
     <script type="text/javascript" src="./bower_components/crossfilter/crossfilter.js"></script>
     <script type="text/javascript" src="./bower_components/dc.js/dc.js"></script>
 
+
     <script src="./src/users/Users.js"></script>
     <script src="./src/users/UserController.js"></script>
     <script src="./src/users/UserService.js"></script>
+    <script src="./src/questions/Questions.js"></script>
+    <script src="./src/questions/QuestionController.js"></script>
+    <script src="./src/questions/QuestionService.js"></script>
     <script src="./src/core/app.js"></script>
+
 
     <script type="text/javascript">
 

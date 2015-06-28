@@ -4,7 +4,7 @@
 (function(){
   'use strict';
 
-angular.module('LighthouseApp', ['ngMaterial', 'users', 'restangular'])
+angular.module('LighthouseApp', ['ngMaterial', 'users', 'questions', 'restangular'])
               .config(function($mdThemingProvider, $mdIconProvider, RestangularProvider){
                   $mdIconProvider
                       .defaultIconSet("./assets/svg/avatars.svg", 128)
@@ -24,7 +24,7 @@ angular.module('LighthouseApp', ['ngMaterial', 'users', 'restangular'])
                       RestangularProvider.setFullRequestInterceptor(function(element, operation, route, url, headers, params, httpConfig) {
 
                           headers['Vnd-HMH-Api-Key']='2591d292db9541834f24cb4e18bb8708'
-                          headers['Authorization']='SIF_HMACSHA256 ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjM01pT2lKb2RIUndjem92TDJsa1pXNTBhWFI1TG1Gd2FTNW9iV2hqYnk1amIyMGlMQ0poZFdRaU9pSm9kSFJ3T2k4dmQzZDNMbWh0YUdOdkxtTnZiU0lzSW1saGRDSTZNVFF6TlRRME1USXdPU3dpYzNWaUlqb2lZMjVjZFRBd00yUkhZVzVrWVd4bUlFZHlaWGtzZFdsa1hIVXdNRE5rWjJGdVpHRnNabDh5TnpFc2RXNXBjWFZsU1dSbGJuUnBabWxsY2x4MU1EQXpaRFF5TkdZNU1XVTBMV1JsWVdRdE5ERTFOeTA0TlRsa0xUUXlNekppTlRVd1lqZzJOeXhrWTF4MU1EQXpaRGMwTnpjaUxDSm9kSFJ3T2k4dmQzZDNMbWx0YzJkc2IySmhiQzV2Y21jdmFXMXpjSFZ5YkM5c2FYTXZkakV2ZG05allXSXZjR1Z5YzI5dUlqcGJJa2x1YzNSeWRXTjBiM0lpWFN3aVkyeHBaVzUwWDJsa0lqb2lOek14T0RRNE5EUXROMkpqWXkwME5XTXlMVGs1TXpJdE1tWXdaVGd5WXpBd1ltWmpMbWh0YUdOdkxtTnZiU0lzSW1WNGNDSTZNVFF6TlRRME5EZ3dPWDAuWm9IQ08tNUdjZUhfelRqQV84WUhVaEVXRllRSnA4djlhS3ZYM0IzZmNpYzpRNy8rK29zM1ZOTUZ4KzlRYlhCUTZkWmd2S3IxTVF4Rm9kZ3RhN0Fna2ZzPQo='
+                          headers['Authorization']='SIF_HMACSHA256 ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjM01pT2lKb2RIUndjem92TDJsa1pXNTBhWFI1TG1Gd2FTNW9iV2hqYnk1amIyMGlMQ0poZFdRaU9pSm9kSFJ3T2k4dmQzZDNMbWh0YUdOdkxtTnZiU0lzSW1saGRDSTZNVFF6TlRRMU5qa3pPQ3dpYzNWaUlqb2lZMjVjZFRBd00yUlRZWFZ5YjI0Z1FtRnlZV1JrZFhJc2RXbGtYSFV3TUROa2MyRjFjbTl1TEhWdWFYRjFaVWxrWlc1MGFXWnBaWEpjZFRBd00yUmhZakZsTkRNMlpTMDRNVGMzTFRReE16a3RPR1V5WkMwMU1tRTJaamRoT0dKbE1qY3NaR05jZFRBd00yUXhJaXdpYUhSMGNEb3ZMM2QzZHk1cGJYTm5iRzlpWVd3dWIzSm5MMmx0YzNCMWNtd3ZiR2x6TDNZeEwzWnZZMkZpTDNCbGNuTnZiaUk2V3lKSmJuTjBjblZqZEc5eUlsMHNJbU5zYVdWdWRGOXBaQ0k2SW1RNE5XWTJOakpsTFRZNU5UTXRORGhsT1MwNFlqQmhMV0ZtTldaak1qQmxNMlUyTXk1b2JXaGpieTVqYjIwaUxDSmxlSEFpT2pFME16VTBOakExTXpoOS5vRnU1a0k5LVFMN2JhdnJsRl9sR0FzbGpsRXZUN2pKb2RwMUtvM0RCVk53OllEVlpVWWtOWmVJVmtZcDRjamdFTndVd2IrOTYrSFptK0dWV2xLTWxxY2c9Cg=='
 
                           return {
                                   element: element,
@@ -33,8 +33,6 @@ angular.module('LighthouseApp', ['ngMaterial', 'users', 'restangular'])
                                   httpConfig: httpConfig
                           };
                       });
-
-school:a45f7f5b-c729-43fd-892a-997a3ffaadf7
 
               });
 
