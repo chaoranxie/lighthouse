@@ -1,7 +1,7 @@
 (function(){
   'use strict';
 
-angular.module('LighthouseApp', ['ngMaterial', 'users', 'questions', 'dashboard', 'restangular','ui.router'])
+angular.module('LighthouseApp', ['ngMaterial', 'users', 'questions', 'assignments', 'dashboard', 'restangular','ui.router'])
               .config(function($mdThemingProvider, $mdIconProvider, RestangularProvider,$stateProvider, $urlRouterProvider){
 
                   $urlRouterProvider.otherwise("/login");

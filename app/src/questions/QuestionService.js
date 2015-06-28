@@ -6,6 +6,7 @@
       RestangularConfigurer.setBaseUrl('http://localhost:8080/');
 
       RestangularConfigurer.setFullRequestInterceptor(function(element, operation, route, url, headers, params, httpConfig) {
+        debugger;
       return {
               element: element,
               params: params,
@@ -26,8 +27,6 @@ angular.module('questions')
 
 
     var questions = QuestionRestangular.all('questions').getList().then(function(questions) {
-        debugger;
-        questions = []
 
         return questions
     })

@@ -10,11 +10,11 @@
     var self = this;
     debugger;
 
-
+    self.questions = []
     questionService
       .loadAllQuestions()
       .then( function( questions ) {
-        debugger
+        self.questions = questions
       });
 
 
