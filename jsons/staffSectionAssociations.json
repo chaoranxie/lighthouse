@@ -1,0 +1,242 @@
+[
+  {
+    "teacherOfRecord": 2,
+    "roleList": [
+      "Instructor"
+    ],
+    "percentResponsible": 100,
+    "staffPersonRefId": "424f91e4-dead-4157-859d-4232b550b867",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "startDate": "2015-06-27T18:01:17.763",
+    "endDate": null,
+    "refId": "ebd3e6a7-ac4f-40d7-97b3-d8b5a443246e"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "startDate": "2015-06-27T18:01:17.77",
+    "endDate": null,
+    "refId": "be9e8151-16e3-469c-9ee0-76c13322a3f3"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "startDate": "2015-06-27T18:01:17.773",
+    "endDate": null,
+    "refId": "2d72aae0-5f44-4adc-b3d7-f2f272b42ce3"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "startDate": "2015-06-27T18:01:17.777",
+    "endDate": null,
+    "refId": "0fab44b8-cbde-441f-b7b1-913315ce0581"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "startDate": "2015-06-27T18:01:17.78",
+    "endDate": null,
+    "refId": "c2b640fa-8e25-441b-8af0-c12450f46f72"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "startDate": "2015-06-27T18:01:17.783",
+    "endDate": null,
+    "refId": "87bcfa94-1949-41fc-b22f-b27655ddcc20"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "startDate": "2015-06-27T18:01:17.79",
+    "endDate": null,
+    "refId": "bc35bceb-b92a-4dc8-93d4-d6a2284d69ff"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "startDate": "2015-06-27T18:01:17.793",
+    "endDate": null,
+    "refId": "e8d60df2-b839-420a-ac6f-d69c0fbe4a28"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "startDate": "2015-06-27T18:01:17.797",
+    "endDate": null,
+    "refId": "536749d7-fc17-444e-adff-52b12c600293"
+  },
+  {
+    "teacherOfRecord": 2,
+    "roleList": [
+      "Instructor"
+    ],
+    "percentResponsible": 100,
+    "staffPersonRefId": "a1168fb6-c50d-436d-86d7-b5992de0b083",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "startDate": "2015-06-27T18:01:17.81",
+    "endDate": null,
+    "refId": "d0fe5d08-0fc3-4c13-819e-3a81f797cf36"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "startDate": "2015-06-27T18:01:17.817",
+    "endDate": null,
+    "refId": "f690f395-329d-48e2-a4c3-2696a30bb8bb"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "startDate": "2015-06-27T18:01:17.82",
+    "endDate": null,
+    "refId": "6e89e541-63ea-4a14-a35f-2af01b3a2bb5"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "startDate": "2015-06-27T18:01:17.827",
+    "endDate": null,
+    "refId": "129e05da-0a5b-41f4-9a46-6881f7d9e37e"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "startDate": "2015-06-27T18:01:17.83",
+    "endDate": null,
+    "refId": "19645edd-4017-4a8b-8160-cde660aae799"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "startDate": "2015-06-27T18:01:17.833",
+    "endDate": null,
+    "refId": "d28c6b88-d7f5-448c-a6c8-dcb73aebbee0"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "startDate": "2015-06-27T18:01:17.84",
+    "endDate": null,
+    "refId": "f6c59d2b-4724-4694-bad2-2c517ccbf91e"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "startDate": "2015-06-27T18:01:17.843",
+    "endDate": null,
+    "refId": "894e5346-a7c7-44d0-b686-8a16ba8517c9"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "startDate": "2015-06-27T18:01:17.847",
+    "endDate": null,
+    "refId": "f75f1502-d73a-444d-ad73-05dea458588f"
+  },
+  {
+    "teacherOfRecord": 2,
+    "roleList": [
+      "Instructor"
+    ],
+    "percentResponsible": 100,
+    "staffPersonRefId": "45fcf656-deff-4c10-906c-7c93803433d4",
+    "sectionRefId": "49720e2b-90dc-4618-ae0f-97d871c99510",
+    "startDate": "2015-06-27T18:01:17.86",
+    "endDate": null,
+    "refId": "c983d6ab-09df-4c6a-bb7c-3f7b62220733"
+  },
+  {
+    "teacherOfRecord": null,
+    "roleList": [
+      "Learner"
+    ],
+    "percentResponsible": null,
+    "staffPersonRefId": null,
+    "sectionRefId": "49720e2b-90dc-4618-ae0f-97d871c99510",
+    "startDate": "2015-06-27T18:01:17.867",
+    "endDate": null,
+    "refId": "c70561cf-34ec-4092-8eaa-c84d60fbc1a8"
+  }
+]

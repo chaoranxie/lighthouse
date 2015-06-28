@@ -1,0 +1,182 @@
+[
+  {
+    "studentRefId": "92592637-428e-4f6d-8fca-bd7e87e16f7b",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "b619eddc-9ca1-4e71-95ab-5d3e62f0f411"
+  },
+  {
+    "studentRefId": "775465fb-ffed-4728-abc7-80a035d3807d",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "be9e8151-16e3-469c-9ee0-76c13322a3f3"
+  },
+  {
+    "studentRefId": "5e09c6b9-c212-475a-b469-012154e43cf6",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "2d72aae0-5f44-4adc-b3d7-f2f272b42ce3"
+  },
+  {
+    "studentRefId": "0ead88df-3500-4c6d-9396-fa9e92cbfb1a",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "0fab44b8-cbde-441f-b7b1-913315ce0581"
+  },
+  {
+    "studentRefId": "02e721e0-90d4-46b2-9c40-8b1bcfb32caf",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "c2b640fa-8e25-441b-8af0-c12450f46f72"
+  },
+  {
+    "studentRefId": "4ad33e18-aae7-484c-89c5-28b96b58c07e",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "87bcfa94-1949-41fc-b22f-b27655ddcc20"
+  },
+  {
+    "studentRefId": "7c5449dd-2de8-4659-8b13-2907d611d2a4",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "bc35bceb-b92a-4dc8-93d4-d6a2284d69ff"
+  },
+  {
+    "studentRefId": "d9181025-9c04-4e5d-93ac-1184ad6f9a69",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "e8d60df2-b839-420a-ac6f-d69c0fbe4a28"
+  },
+  {
+    "studentRefId": "3516e040-d639-4e77-9f67-f16c99c02b31",
+    "sectionRefId": "355af8f3-f302-497d-a690-18e08e27a6ff",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "536749d7-fc17-444e-adff-52b12c600293"
+  },
+  {
+    "studentRefId": "92592637-428e-4f6d-8fca-bd7e87e16f7b",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "571c3cad-6f20-4dad-b59d-4ceb66fb3836"
+  },
+  {
+    "studentRefId": "775465fb-ffed-4728-abc7-80a035d3807d",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "f690f395-329d-48e2-a4c3-2696a30bb8bb"
+  },
+  {
+    "studentRefId": "5e09c6b9-c212-475a-b469-012154e43cf6",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "6e89e541-63ea-4a14-a35f-2af01b3a2bb5"
+  },
+  {
+    "studentRefId": "0ead88df-3500-4c6d-9396-fa9e92cbfb1a",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "129e05da-0a5b-41f4-9a46-6881f7d9e37e"
+  },
+  {
+    "studentRefId": "02e721e0-90d4-46b2-9c40-8b1bcfb32caf",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "19645edd-4017-4a8b-8160-cde660aae799"
+  },
+  {
+    "studentRefId": "4ad33e18-aae7-484c-89c5-28b96b58c07e",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "d28c6b88-d7f5-448c-a6c8-dcb73aebbee0"
+  },
+  {
+    "studentRefId": "7c5449dd-2de8-4659-8b13-2907d611d2a4",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "f6c59d2b-4724-4694-bad2-2c517ccbf91e"
+  },
+  {
+    "studentRefId": "d9181025-9c04-4e5d-93ac-1184ad6f9a69",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "894e5346-a7c7-44d0-b686-8a16ba8517c9"
+  },
+  {
+    "studentRefId": "3516e040-d639-4e77-9f67-f16c99c02b31",
+    "sectionRefId": "b272b95b-30f5-4320-9a41-5f538e281e11",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "f75f1502-d73a-444d-ad73-05dea458588f"
+  },
+  {
+    "studentRefId": "92592637-428e-4f6d-8fca-bd7e87e16f7b",
+    "sectionRefId": "49720e2b-90dc-4618-ae0f-97d871c99510",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "4b0f090c-3b6f-4ffd-b37f-462b41b2c859"
+  },
+  {
+    "studentRefId": "775465fb-ffed-4728-abc7-80a035d3807d",
+    "sectionRefId": "49720e2b-90dc-4618-ae0f-97d871c99510",
+    "schoolYear": "2015",
+    "entryDate": "2015-06-27T00:00:00",
+    "exitDate": null,
+    "scheduleOverride": null,
+    "refId": "c70561cf-34ec-4092-8eaa-c84d60fbc1a8"
+  }
+]

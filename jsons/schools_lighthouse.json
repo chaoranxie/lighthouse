@@ -1,0 +1,72 @@
+{
+  "localId": {
+    "idType": {
+      "code": "OtherSchoolType",
+      "item": null,
+      "otherCodeList": null,
+      "codesetName": "educationAgencyType"
+    },
+    "idValue": "K12School"
+  },
+  "externalIdList": null,
+  "schoolName": "Lighthouse School",
+  "leaRefId": "c4c12d3f-5489-4af6-b4e0-9fb57c574200",
+  "otherLEA": null,
+  "schoolType": {
+    "code": "K12School",
+    "item": null,
+    "otherCodeList": null,
+    "codesetName": "educationAgencyType"
+  },
+  "schoolFocusList": [
+    "Public School"
+  ],
+  "schoolURL": null,
+  "schoolContactList": null,
+  "phoneNumberList": [
+    {
+      "phoneNumberType": null,
+      "number": "8888675309",
+      "extension": "1111",
+      "listedStatus": null
+    }
+  ],
+  "emailList": null,
+  "yearGroupList": [
+    {
+      "code": "09",
+      "item": null,
+      "otherCodeList": null,
+      "codesetName": "HMH.YearGroup"
+    },
+    {
+      "code": "10",
+      "item": null,
+      "otherCodeList": null,
+      "codesetName": "HMH.YearGroup"
+    },
+    {
+      "code": "11",
+      "item": null,
+      "otherCodeList": null,
+      "codesetName": "HMH.YearGroup"
+    },
+    {
+      "code": "12",
+      "item": null,
+      "otherCodeList": null,
+      "codesetName": "HMH.YearGroup"
+    }
+  ],
+  "operationalStatus": {
+    "code": "Active",
+    "item": null,
+    "otherCodeList": null,
+    "codesetName": "operationalStatus"
+  },
+  "electoralDistrict": null,
+  "schoolSector": "Public",
+  "genderOfEntry": "Not selected",
+  "boardingSchoolStatus": 0,
+  "refId": "ce2abd7e-9e95-4f5c-9546-db43f6421d20"
+}

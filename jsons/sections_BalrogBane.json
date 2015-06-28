@@ -1,0 +1,58 @@
+{
+  "longName": "Balrog Bane 101",
+  "courseRefId": "1b2a0e4f-4f9a-4a68-96ed-f447a992a9a5",
+  "timeTableSubjectRefId": "1d44f480-f553-4be3-883f-b2f3d9e39e35",
+  "sessionScheduleList": [
+    {
+      "termRefId": "66af3755-60a9-410e-8696-5826a53ee256",
+      "meetingTimeList": [
+        {
+          "timeTableDay": "Monday",
+          "timeTablePeriod": null
+        },
+        {
+          "timeTableDay": "Tuesday",
+          "timeTablePeriod": null
+        },
+        {
+          "timeTableDay": "Wednesday",
+          "timeTablePeriod": null
+        }
+      ],
+      "roomList": [
+        {
+          "roomRefId": "ec0b4799-ff7e-4b76-9721-d77240d29024",
+          "roomNumber": "Room A"
+        },
+        {
+          "roomRefId": "ec0b4799-ff7e-4b76-9721-d77240d29024",
+          "roomNumber": "Room A"
+        },
+        {
+          "roomRefId": "101b5e03-91fd-44e8-8471-070d0592314b",
+          "roomNumber": "Room B"
+        }
+      ],
+      "sectionTeacherList": null
+    }
+  ],
+  "yearGroup": {
+    "code": "09",
+    "item": null,
+    "otherCodeList": null,
+    "codesetName": "HMH.YearGroup"
+  },
+  "status": "Active",
+  "schoolYear": "2015",
+  "localId": {
+    "idType": {
+      "code": "LASID",
+      "item": null,
+      "otherCodeList": null,
+      "codesetName": "HMH.LocalId"
+    },
+    "idValue": "Balrog_Bane_101_local_id"
+  },
+  "name": "Balrog Ba",
+  "refId": "355af8f3-f302-497d-a690-18e08e27a6ff"
+}

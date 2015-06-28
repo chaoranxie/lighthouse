@@ -1,0 +1,275 @@
+[
+  {
+    "userName": "gandalf_271",
+    "otherIdList": null,
+    "title": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "Grey",
+        "givenName": "Gandalf",
+        "middleName": "The",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Gandalf",
+        "sortName": "Grey",
+        "fullName": "Gandalf the Grey",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": [
+      {
+        "actualOtherName": {
+          "prefix": "Mrs.",
+          "familyName": "Grey",
+          "givenName": "Gandalf",
+          "middleName": "The",
+          "suffix": null,
+          "preferredFamilyName": null,
+          "preferredGivenName": "Gandalf",
+          "sortName": "Grey",
+          "fullName": "Gandalf the Grey",
+          "familyNameFirst": 0,
+          "preferredFamilyNameFirst": null
+        },
+        "nameRole": "Nickname"
+      }
+    ],
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": [
+      {
+        "phoneNumberType": null,
+        "number": "888-555-0012",
+        "extension": null,
+        "listedStatus": null
+      }
+    ],
+    "emailList": [
+      {
+        "emailType": {
+          "code": "Home/Personal",
+          "item": null,
+          "otherCodeList": null,
+          "codesetName": "emailType"
+        },
+        "emailAddress": "gandalf.the.grey@hmhco.com"
+      }
+    ],
+    "refId": "424f91e4-dead-4157-859d-4232b550b867"
+  },
+  {
+    "userName": "sauron_271",
+    "otherIdList": null,
+    "title": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "O''Rings",
+        "givenName": "Sauron",
+        "middleName": "Lord",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Sauron",
+        "sortName": "O''Rings",
+        "fullName": "Sauron Lord O''Rings",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": [
+      {
+        "actualOtherName": {
+          "prefix": "Mrs.",
+          "familyName": "O''Rings",
+          "givenName": "Sauron",
+          "middleName": "Lord",
+          "suffix": null,
+          "preferredFamilyName": null,
+          "preferredGivenName": "Sauron",
+          "sortName": "O''Rings",
+          "fullName": "Sauron Lord O''Rings",
+          "familyNameFirst": 0,
+          "preferredFamilyNameFirst": null
+        },
+        "nameRole": "Nickname"
+      }
+    ],
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": [
+      {
+        "phoneNumberType": null,
+        "number": "888-555-0013",
+        "extension": null,
+        "listedStatus": null
+      }
+    ],
+    "emailList": [
+      {
+        "emailType": {
+          "code": "Home/Personal",
+          "item": null,
+          "otherCodeList": null,
+          "codesetName": "emailType"
+        },
+        "emailAddress": "lord.of.the.rings@mordorco.com"
+      }
+    ],
+    "refId": "a1168fb6-c50d-436d-86d7-b5992de0b083"
+  },
+  {
+    "userName": "galadriel_271",
+    "otherIdList": null,
+    "title": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "Finarfin",
+        "givenName": "Galadriel",
+        "middleName": null,
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Galadriel",
+        "sortName": "Finarfin",
+        "fullName": "Galadriel Finarfin",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": [
+      {
+        "actualOtherName": {
+          "prefix": "Mrs.",
+          "familyName": "Finarfin",
+          "givenName": "Galadriel",
+          "middleName": null,
+          "suffix": null,
+          "preferredFamilyName": null,
+          "preferredGivenName": "Galadriel",
+          "sortName": "Finarfin",
+          "fullName": "Galadriel Finarfin",
+          "familyNameFirst": 0,
+          "preferredFamilyNameFirst": null
+        },
+        "nameRole": "Nickname"
+      }
+    ],
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": [
+      {
+        "phoneNumberType": null,
+        "number": "888-555-0015",
+        "extension": null,
+        "listedStatus": null
+      }
+    ],
+    "emailList": [
+      {
+        "emailType": {
+          "code": "Home/Personal",
+          "item": null,
+          "otherCodeList": null,
+          "codesetName": "emailType"
+        },
+        "emailAddress": "lady.galadriel@hmhco.com"
+      }
+    ],
+    "refId": "45fcf656-deff-4c10-906c-7c93803433d4"
+  }
+]

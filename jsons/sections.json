@@ -1,0 +1,176 @@
+[
+  {
+    "longName": "Balrog Bane 101",
+    "courseRefId": "1b2a0e4f-4f9a-4a68-96ed-f447a992a9a5",
+    "timeTableSubjectRefId": "1d44f480-f553-4be3-883f-b2f3d9e39e35",
+    "sessionScheduleList": [
+      {
+        "termRefId": "66af3755-60a9-410e-8696-5826a53ee256",
+        "meetingTimeList": [
+          {
+            "timeTableDay": "Monday",
+            "timeTablePeriod": null
+          },
+          {
+            "timeTableDay": "Tuesday",
+            "timeTablePeriod": null
+          },
+          {
+            "timeTableDay": "Wednesday",
+            "timeTablePeriod": null
+          }
+        ],
+        "roomList": [
+          {
+            "roomRefId": "ec0b4799-ff7e-4b76-9721-d77240d29024",
+            "roomNumber": "Room A"
+          },
+          {
+            "roomRefId": "ec0b4799-ff7e-4b76-9721-d77240d29024",
+            "roomNumber": "Room A"
+          },
+          {
+            "roomRefId": "101b5e03-91fd-44e8-8471-070d0592314b",
+            "roomNumber": "Room B"
+          }
+        ],
+        "sectionTeacherList": null
+      }
+    ],
+    "yearGroup": {
+      "code": "09",
+      "item": null,
+      "otherCodeList": null,
+      "codesetName": "HMH.YearGroup"
+    },
+    "status": "Active",
+    "schoolYear": "2015",
+    "localId": {
+      "idType": {
+        "code": "LASID",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.LocalId"
+      },
+      "idValue": "Balrog_Bane_101_local_id"
+    },
+    "name": "Balrog Ba",
+    "refId": "355af8f3-f302-497d-a690-18e08e27a6ff"
+  },
+  {
+    "longName": "World Domination",
+    "courseRefId": "c0651d91-7088-4e7d-8f7b-57919c71c132",
+    "timeTableSubjectRefId": "aba9f0e5-a61b-4703-85c1-c1d518bb81ac",
+    "sessionScheduleList": [
+      {
+        "termRefId": "9f177c1c-d59c-423f-8bac-41bf9d353bf6",
+        "meetingTimeList": [
+          {
+            "timeTableDay": "Monday",
+            "timeTablePeriod": null
+          },
+          {
+            "timeTableDay": "Tuesday",
+            "timeTablePeriod": null
+          },
+          {
+            "timeTableDay": "Wednesday",
+            "timeTablePeriod": null
+          }
+        ],
+        "roomList": [
+          {
+            "roomRefId": "f7185b76-933f-4735-b1bb-8cd28ee99c0d",
+            "roomNumber": "Room A"
+          },
+          {
+            "roomRefId": "f7185b76-933f-4735-b1bb-8cd28ee99c0d",
+            "roomNumber": "Room A"
+          },
+          {
+            "roomRefId": "457be25f-96dc-4df0-afc9-b1042eb80698",
+            "roomNumber": "Room B"
+          }
+        ],
+        "sectionTeacherList": null
+      }
+    ],
+    "yearGroup": {
+      "code": "09",
+      "item": null,
+      "otherCodeList": null,
+      "codesetName": "HMH.YearGroup"
+    },
+    "status": "Active",
+    "schoolYear": "2015",
+    "localId": {
+      "idType": {
+        "code": "LASID",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.LocalId"
+      },
+      "idValue": "World_Domination_local_id"
+    },
+    "name": "World Dom",
+    "refId": "b272b95b-30f5-4320-9a41-5f538e281e11"
+  },
+  {
+    "longName": "Telepathy 101",
+    "courseRefId": "7182d4a3-61b9-44c2-bcf7-31d010557b5d",
+    "timeTableSubjectRefId": "f1ea81c6-a150-4861-8bc4-a8569edd31eb",
+    "sessionScheduleList": [
+      {
+        "termRefId": "cb474fd4-862d-401a-80e6-c7f779cde7fd",
+        "meetingTimeList": [
+          {
+            "timeTableDay": "Monday",
+            "timeTablePeriod": null
+          },
+          {
+            "timeTableDay": "Tuesday",
+            "timeTablePeriod": null
+          },
+          {
+            "timeTableDay": "Wednesday",
+            "timeTablePeriod": null
+          }
+        ],
+        "roomList": [
+          {
+            "roomRefId": "bdc92a31-4d6d-4211-97f9-867f6e7e7a0f",
+            "roomNumber": "Room A"
+          },
+          {
+            "roomRefId": "bdc92a31-4d6d-4211-97f9-867f6e7e7a0f",
+            "roomNumber": "Room A"
+          },
+          {
+            "roomRefId": "c4687c2c-cb83-4df7-ae3d-cc05eecba57e",
+            "roomNumber": "Room B"
+          }
+        ],
+        "sectionTeacherList": null
+      }
+    ],
+    "yearGroup": {
+      "code": "09",
+      "item": null,
+      "otherCodeList": null,
+      "codesetName": "HMH.YearGroup"
+    },
+    "status": "Active",
+    "schoolYear": "2015",
+    "localId": {
+      "idType": {
+        "code": "LASID",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.LocalId"
+      },
+      "idValue": "Telepathy_101_local_id"
+    },
+    "name": "Telepathy",
+    "refId": "49720e2b-90dc-4618-ae0f-97d871c99510"
+  }
+]

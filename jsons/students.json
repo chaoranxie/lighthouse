@@ -1,0 +1,758 @@
+[
+  {
+    "disability": {
+      "ideaIndicator": null,
+      "status": null,
+      "section504Status": "N",
+      "primaryDisability": {
+        "code": "8",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability"
+      },
+      "awaitingInitialIDEAEvaluation": null,
+      "ideaEnvironment": {
+        "code": "No",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability.IDEA"
+      }
+    },
+    "economicStatus": "1",
+    "migrantEducation": "No",
+    "title1": "Yes",
+    "alertMessageList": null,
+    "medicalAlertMessageList": null,
+    "projectedGraduationYear": null,
+    "onTimeGraduationYear": null,
+    "graduationDate": null,
+    "giftedTalented": 0,
+    "economicDisadvantage": null,
+    "firstNationalEnrollment": null,
+    "otherIdList": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "Baggins",
+        "givenName": "Frodo",
+        "middleName": "A",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Frodo",
+        "sortName": "Baggins",
+        "fullName": "Frodo A Baggins",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": null,
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": null,
+    "emailList": null,
+    "refId": "92592637-428e-4f6d-8fca-bd7e87e16f7b"
+  },
+  {
+    "disability": {
+      "ideaIndicator": null,
+      "status": null,
+      "section504Status": "N",
+      "primaryDisability": {
+        "code": "8",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability"
+      },
+      "awaitingInitialIDEAEvaluation": null,
+      "ideaEnvironment": {
+        "code": "No",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability.IDEA"
+      }
+    },
+    "economicStatus": "1",
+    "migrantEducation": "No",
+    "title1": "Yes",
+    "alertMessageList": null,
+    "medicalAlertMessageList": null,
+    "projectedGraduationYear": null,
+    "onTimeGraduationYear": null,
+    "graduationDate": null,
+    "giftedTalented": 0,
+    "economicDisadvantage": null,
+    "firstNationalEnrollment": null,
+    "otherIdList": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "Gamgee",
+        "givenName": "Samwise",
+        "middleName": "B",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Samwise",
+        "sortName": "Gamgee",
+        "fullName": "Samwise B Gamgee",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": null,
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": null,
+    "emailList": null,
+    "refId": "775465fb-ffed-4728-abc7-80a035d3807d"
+  },
+  {
+    "disability": {
+      "ideaIndicator": null,
+      "status": null,
+      "section504Status": "N",
+      "primaryDisability": {
+        "code": "8",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability"
+      },
+      "awaitingInitialIDEAEvaluation": null,
+      "ideaEnvironment": {
+        "code": "No",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability.IDEA"
+      }
+    },
+    "economicStatus": "1",
+    "migrantEducation": "No",
+    "title1": "Yes",
+    "alertMessageList": null,
+    "medicalAlertMessageList": null,
+    "projectedGraduationYear": null,
+    "onTimeGraduationYear": null,
+    "graduationDate": null,
+    "giftedTalented": 0,
+    "economicDisadvantage": null,
+    "firstNationalEnrollment": null,
+    "otherIdList": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "Eggolas",
+        "givenName": "Legolas",
+        "middleName": "My",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Legolas",
+        "sortName": "Eggolas",
+        "fullName": "Legolas My Eggolas",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": null,
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": null,
+    "emailList": null,
+    "refId": "5e09c6b9-c212-475a-b469-012154e43cf6"
+  },
+  {
+    "disability": {
+      "ideaIndicator": null,
+      "status": null,
+      "section504Status": "N",
+      "primaryDisability": {
+        "code": "8",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability"
+      },
+      "awaitingInitialIDEAEvaluation": null,
+      "ideaEnvironment": {
+        "code": "No",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability.IDEA"
+      }
+    },
+    "economicStatus": "1",
+    "migrantEducation": "No",
+    "title1": "Yes",
+    "alertMessageList": null,
+    "medicalAlertMessageList": null,
+    "projectedGraduationYear": null,
+    "onTimeGraduationYear": null,
+    "graduationDate": null,
+    "giftedTalented": 0,
+    "economicDisadvantage": null,
+    "firstNationalEnrollment": null,
+    "otherIdList": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "Undomiel",
+        "givenName": "Arwen",
+        "middleName": "C",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Arwen",
+        "sortName": "Undomiel",
+        "fullName": "Arwen C Undomiel",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": null,
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": null,
+    "emailList": null,
+    "refId": "0ead88df-3500-4c6d-9396-fa9e92cbfb1a"
+  },
+  {
+    "disability": {
+      "ideaIndicator": null,
+      "status": null,
+      "section504Status": "N",
+      "primaryDisability": {
+        "code": "8",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability"
+      },
+      "awaitingInitialIDEAEvaluation": null,
+      "ideaEnvironment": {
+        "code": "No",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability.IDEA"
+      }
+    },
+    "economicStatus": "1",
+    "migrantEducation": "No",
+    "title1": "Yes",
+    "alertMessageList": null,
+    "medicalAlertMessageList": null,
+    "projectedGraduationYear": null,
+    "onTimeGraduationYear": null,
+    "graduationDate": null,
+    "giftedTalented": 0,
+    "economicDisadvantage": null,
+    "firstNationalEnrollment": null,
+    "otherIdList": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "Took",
+        "givenName": "Peregrin",
+        "middleName": "D",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Peregrin",
+        "sortName": "Took",
+        "fullName": "Peregrin D Took",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": null,
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": null,
+    "emailList": null,
+    "refId": "02e721e0-90d4-46b2-9c40-8b1bcfb32caf"
+  },
+  {
+    "disability": {
+      "ideaIndicator": null,
+      "status": null,
+      "section504Status": "N",
+      "primaryDisability": {
+        "code": "8",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability"
+      },
+      "awaitingInitialIDEAEvaluation": null,
+      "ideaEnvironment": {
+        "code": "No",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability.IDEA"
+      }
+    },
+    "economicStatus": "1",
+    "migrantEducation": "No",
+    "title1": "Yes",
+    "alertMessageList": null,
+    "medicalAlertMessageList": null,
+    "projectedGraduationYear": null,
+    "onTimeGraduationYear": null,
+    "graduationDate": null,
+    "giftedTalented": 0,
+    "economicDisadvantage": null,
+    "firstNationalEnrollment": null,
+    "otherIdList": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "Brandybuck",
+        "givenName": "Meriadoc",
+        "middleName": "E",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Meriadoc",
+        "sortName": "Brandybuck",
+        "fullName": "Meriadoc E Brandybuck",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": null,
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": null,
+    "emailList": null,
+    "refId": "4ad33e18-aae7-484c-89c5-28b96b58c07e"
+  },
+  {
+    "disability": {
+      "ideaIndicator": null,
+      "status": null,
+      "section504Status": "N",
+      "primaryDisability": {
+        "code": "8",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability"
+      },
+      "awaitingInitialIDEAEvaluation": null,
+      "ideaEnvironment": {
+        "code": "No",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability.IDEA"
+      }
+    },
+    "economicStatus": "1",
+    "migrantEducation": "No",
+    "title1": "Yes",
+    "alertMessageList": null,
+    "medicalAlertMessageList": null,
+    "projectedGraduationYear": null,
+    "onTimeGraduationYear": null,
+    "graduationDate": null,
+    "giftedTalented": 0,
+    "economicDisadvantage": null,
+    "firstNationalEnrollment": null,
+    "otherIdList": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "O'Gondor",
+        "givenName": "Boromir",
+        "middleName": "F",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Boromir",
+        "sortName": "O'Gondor",
+        "fullName": "Boromir F O'Gondor",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": null,
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": null,
+    "emailList": null,
+    "refId": "7c5449dd-2de8-4659-8b13-2907d611d2a4"
+  },
+  {
+    "disability": {
+      "ideaIndicator": null,
+      "status": null,
+      "section504Status": "N",
+      "primaryDisability": {
+        "code": "8",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability"
+      },
+      "awaitingInitialIDEAEvaluation": null,
+      "ideaEnvironment": {
+        "code": "No",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability.IDEA"
+      }
+    },
+    "economicStatus": "1",
+    "migrantEducation": "No",
+    "title1": "Yes",
+    "alertMessageList": null,
+    "medicalAlertMessageList": null,
+    "projectedGraduationYear": null,
+    "onTimeGraduationYear": null,
+    "graduationDate": null,
+    "giftedTalented": 0,
+    "economicDisadvantage": null,
+    "firstNationalEnrollment": null,
+    "otherIdList": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "O'Gloin",
+        "givenName": "Gimli",
+        "middleName": "G",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Gimli",
+        "sortName": "O'Gloin",
+        "fullName": "Gimli G O'Gloin",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": null,
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": null,
+    "emailList": null,
+    "refId": "d9181025-9c04-4e5d-93ac-1184ad6f9a69"
+  },
+  {
+    "disability": {
+      "ideaIndicator": null,
+      "status": null,
+      "section504Status": "N",
+      "primaryDisability": {
+        "code": "8",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability"
+      },
+      "awaitingInitialIDEAEvaluation": null,
+      "ideaEnvironment": {
+        "code": "No",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": "HMH.Disability.IDEA"
+      }
+    },
+    "economicStatus": "1",
+    "migrantEducation": "No",
+    "title1": "Yes",
+    "alertMessageList": null,
+    "medicalAlertMessageList": null,
+    "projectedGraduationYear": null,
+    "onTimeGraduationYear": null,
+    "graduationDate": null,
+    "giftedTalented": 0,
+    "economicDisadvantage": null,
+    "firstNationalEnrollment": null,
+    "otherIdList": null,
+    "addressRefIdList": null,
+    "name": {
+      "actualNameOfRecord": {
+        "prefix": "Mrs.",
+        "familyName": "Arathornowitz",
+        "givenName": "Aragorn",
+        "middleName": "H",
+        "suffix": null,
+        "preferredFamilyName": null,
+        "preferredGivenName": "Aragorn",
+        "sortName": "Arathornowitz",
+        "fullName": "Aragorn H Arathornowitz",
+        "familyNameFirst": 0,
+        "preferredFamilyNameFirst": null
+      },
+      "nameRole": "Nickname"
+    },
+    "localId": null,
+    "externalId": null,
+    "electronicIdList": null,
+    "otherNameList": null,
+    "demographics": {
+      "ethnicityList": null,
+      "sexus": 1,
+      "birthDate": null,
+      "birthDateVerification": "NA",
+      "placeOfBirth": null,
+      "subregionOfBirth": null,
+      "stateProvinceOfBirth": {
+        "code": "MA",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfBirth": {
+        "code": "US",
+        "item": null,
+        "otherCodeList": null,
+        "codesetName": null
+      },
+      "countryOfCitizenshipList": null,
+      "countryOfResidency": null,
+      "countryArrivalDate": "2015-06-27T00:00:00",
+      "citizenshipStatus": null,
+      "languageProficiency": "2",
+      "languageList": null,
+      "dwellingArrangement": "NA",
+      "maritalStatus": "Married"
+    },
+    "phoneNumberList": null,
+    "emailList": null,
+    "refId": "3516e040-d639-4e77-9f67-f16c99c02b31"
+  }
+]
