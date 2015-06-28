@@ -14,40 +14,21 @@
    */
   function UserService($q, Restangular){
 
-    var users = Restangular.all('assignments').getList().then(function(assignments) {
-        debugger;
-        users = []
-        for (var i = 0; i < assignments.length; i++) {
-            var assignment = {}
-            assignment['name']=assignments[i].name
-            assignment['content']=assignments[i].description
-            users.push(assignment)
-        }
-        return users
-    })
+
+    debugger;
+    var Restangular = Restangular
 
 
-    var users = Restangular.all('assignments').getList().then(function(assignments) {
-        debugger;
-        users = []
-        for (var i = 0; i < assignments.length; i++) {
-            var assignment = {}
-            assignment['name']=assignments[i].name
-            assignment['content']=assignments[i].description
-            users.push(assignment)
-        }
-        return users
-    })
-    Restangular.one('assignments', 'bd1d54c3-4bd6-4a0c-8708-fabe727d0278').get().then(function(assignments) {
-        debugger;
-    })
+    function actualLogin(username, password){
+          debugger;
 
-
+    }
     // Promise-based API
     return {
-      loadAllUsers : function() {
+      loginUser : function(username, password) {
         // Simulate async nature of real remote calls
-        return $q.when(users);
+
+        return $q.when(actualLogin(username, password));
       }
     };
   }

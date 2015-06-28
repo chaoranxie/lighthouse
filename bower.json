@@ -11,7 +11,8 @@
     "angular-aria": "^1.4.x",
     "angular-material": "^0.9.0",
     "restangular": "~1.5.1",
-    "dc.js": "~1.7.3"
+    "dc.js": "~1.7.3",
+    "angular-ui-router": "~0.2.15"
   },
   "devDependencies": {
     "angular-material": "~0.9.4"
