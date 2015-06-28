@@ -3,7 +3,7 @@
   angular
        .module('users')
        .controller('UserController', [
-          'userService', '$mdSidenav', '$mdBottomSheet', '$log', '$q',
+          'userService', '$location', '$mdSidenav', '$mdBottomSheet', '$log', '$q',
           UserController
        ]);
 
@@ -14,7 +14,7 @@
    * @param avatarsService
    * @constructor
    */
-  function UserController( userService, $mdSidenav, $mdBottomSheet, $log, $q) {
+  function UserController( userService, $location, $mdSidenav, $mdBottomSheet, $log, $q) {
     var self = this;
     self.username ='frodo_271'
     self.password = "password"
@@ -24,6 +24,8 @@
             debugger;
             self.user = user
           });
+
+        $location.path('/dashboard');
     }
 
     // self.login
